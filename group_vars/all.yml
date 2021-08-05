@@ -1,0 +1,3 @@
+sudo_user: user
+remote_user: user
+docker_user: user
